@@ -460,4 +460,14 @@ a, a:hover {
   }
 }
 
+.ruby-icon {
+  height: 50px;
+  width: 50px;
+}
+
+.rails-icon {
+  height: 50px;
+  width: 70px;
+}
+
 /****/
